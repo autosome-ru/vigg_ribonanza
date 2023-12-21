@@ -1,6 +1,8 @@
 # vigg_ribonanza
 Source code of the Stanford Ribonanza RNA Folding first place solution
 
+You can read the detailed solution description here -- https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding/discussion/460121
+
 ## HARDWARE
 
 Ubuntu 20.04.4 LTS x86_64
